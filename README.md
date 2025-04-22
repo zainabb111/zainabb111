@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zainabb111
 - 👀 I’m interested in Android projects, System and Network Administrator, Cyber security and creating Websites.
-- 🌱 I’m currently learning Artificial Intelligence And Machine Learning
+- 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on open source network management tools.
 - 📫 How to reach me [email: zainabeman91@gmail.com]  
 - 😄 Pronouns: She/Her
